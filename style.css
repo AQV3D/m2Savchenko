@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+header {
+    background-color: green;
+}
+header a {
+    text-decoration: none; 
+    border-radius: 5px;
+    padding: 3px;
+}
+h1 {
+    text-align: center;
+    color: darkorange;
+    background-color: darkred;
+    border: darkred solid 1px;
+    border-radius: 10px;
+}
+ footer {
+    background-color: darkgoldenrod;
+ }
+ footer p {
+     background-color: black;
+     color: blanchedalmond;
+ }
+ nav {
+     background-color: orange;
+ }
+
+nav a {
+    text-decoration: none; 
+    color: red;
+
+}
